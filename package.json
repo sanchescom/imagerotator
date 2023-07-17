@@ -29,6 +29,6 @@
   "author": "WebRotate 360 LLC",
   "license": "See license in EULA.pdf",
   "dependencies": {
-    "jquery": "3.4.1"
+    "jquery": "3.5.0"
   }
 }
